@@ -1,6 +1,7 @@
 ## LaslesVPN Landing Page with AOS Animations
 
 ## Live demo
+https://mim515.github.io/Lasles-VPN-project-with-AOS-animation/
 
 
 A responsive and visually engaging landing page for LaslesVPN, showcasing its features, pricing plans, and testimonials. Built using Tailwind CSS and enhanced with AOS (Animate On Scroll) animations for a dynamic user experience.
