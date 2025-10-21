@@ -7,7 +7,7 @@ const testimonials = [
     rating: 4.5,
     comment:
       "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
-    image: "/src/images/user1.png",
+    image: "../images/user2.png",
   },
   {
     name: "Yessica Christy",
